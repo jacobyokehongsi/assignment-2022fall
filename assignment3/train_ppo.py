@@ -137,7 +137,7 @@ if __name__ == '__main__':
         trainer.load_w(log_dir, "final")
 
     # Setup some stats helpers
-    episode_rewards = np.zeros([num_envs, 1], dtype=np.float)
+    episode_rewards = np.zeros([num_envs, 1], dtype=float)
     total_episodes = total_steps = iteration = 0
     reward_recorder = deque(maxlen=100)
     success_recorder = deque(maxlen=100)
@@ -159,10 +159,8 @@ if __name__ == '__main__':
                 # Get action
                 # [TODO] Get the action, values, and action log prob. from trainer, all are tensors.
                 # Hint: Remember to disable gradient by using torch.no_grad() context when collecting data here
-                values = None
-                actions = None
-                action_log_prob = None
-                pass
+                with torch.no_grad():
+                    values, actions, action_log_prob = trainer.compute_action(obs, deterministic=False)
 
                 assert values.shape == (num_envs, 1)
                 assert action_log_prob.shape == (num_envs, 1)
@@ -219,6 +217,10 @@ if __name__ == '__main__':
                 iteration=iteration,
                 total_time=total_timer.now
             )
+            
+            for key,value in stats.items():
+              if type(value) in [np.float32, np.float64]:
+                stats[key] = float(value)
 
             if success_recorder:
                 stats["success_rate"] = np.mean(success_recorder)
