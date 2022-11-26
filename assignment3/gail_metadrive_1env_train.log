@@ -1,0 +1,972 @@
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully load weights from /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core/checkpoint-expert.pkl!
+Generated 1000/30000 steps from the expert. Average episode reward: 253.712, success rate: 0.000
+Generated 2000/30000 steps from the expert. Average episode reward: 255.114, success rate: 0.000
+Generated 3000/30000 steps from the expert. Average episode reward: 254.410, success rate: 0.000
+Generated 30000 steps from the expert. Average episode reward: 254.410, success rate: 0.000
+Start training!
+===== gail Training Iteration 0 =====:
+  adv_mean: null
+  discriminator_loss: 0.5103817692360817
+  entropy: 2.7622522256313227
+  episode_reward: 8.319767851497428
+  frame_per_second: 506
+  gail_reward: 0.020963437862407702
+  grad_norm: 1.4512058204565292
+  iteration: 0
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.024137654957863002
+  ratio: 0.9999071364219372
+  success_rate: 0.0
+  total_episodes: 17
+  total_loss: -0.024137654957863002
+  total_steps: 20000
+  total_time: 39.4561972618103
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/checkpoint-iter0.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/progress.csv>.
+===== gail Training Iteration 1 =====:
+  adv_mean: null
+  discriminator_loss: 0.07875205729729855
+  entropy: 2.6649261019168757
+  episode_reward: 12.443583139464796
+  frame_per_second: 482
+  gail_reward: 0.01559987395691375
+  grad_norm: 0.3077596003428484
+  iteration: 1
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.017567607303126117
+  ratio: 0.9986607369704125
+  success_rate: 0.0
+  total_episodes: 45
+  total_loss: -0.017567607303126117
+  total_steps: 40000
+  total_time: 82.83145785331726
+
+===== gail Training Iteration 2 =====:
+  adv_mean: null
+  discriminator_loss: 0.06340737371490551
+  entropy: 2.567884002893399
+  episode_reward: 13.596810562863725
+  frame_per_second: 465
+  gail_reward: 0.01144637303868643
+  grad_norm: 1.0507093009276267
+  iteration: 2
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.012648777541919396
+  ratio: 0.9978153557349474
+  success_rate: 0.0
+  total_episodes: 85
+  total_loss: -0.012648777541919396
+  total_steps: 60000
+  total_time: 128.92121195793152
+
+===== gail Training Iteration 3 =====:
+  adv_mean: null
+  discriminator_loss: 0.08851458272920587
+  entropy: 2.410422601760962
+  episode_reward: 16.360214163563235
+  frame_per_second: 453
+  gail_reward: 0.014654567311159694
+  grad_norm: 0.7196331284749202
+  iteration: 3
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.015978598179152377
+  ratio: 1.0021894370134061
+  success_rate: 0.0
+  total_episodes: 141
+  total_loss: -0.015978598179152377
+  total_steps: 80000
+  total_time: 176.39368200302124
+
+===== gail Training Iteration 4 =====:
+  adv_mean: null
+  discriminator_loss: 0.06380444740972076
+  entropy: 2.234093512632908
+  episode_reward: 19.261082769974333
+  frame_per_second: 436
+  gail_reward: 0.014353151860623024
+  grad_norm: 0.6031632567063356
+  iteration: 4
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.015769956099729126
+  ratio: 1.0011171977489421
+  success_rate: 0.0
+  total_episodes: 229
+  total_loss: -0.015769956099729126
+  total_steps: 100000
+  total_time: 229.11277770996094
+
+===== gail Training Iteration 5 =====:
+  adv_mean: null
+  discriminator_loss: 0.059812698950274634
+  entropy: 2.0344384896449554
+  episode_reward: 21.91760749155766
+  frame_per_second: 422
+  gail_reward: 0.04425238221644973
+  grad_norm: 0.3613913060762943
+  iteration: 5
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.04823342832044149
+  ratio: 1.0004666367402444
+  success_rate: 0.0
+  total_episodes: 333
+  total_loss: -0.04823342832044149
+  total_steps: 120000
+  total_time: 283.85363602638245
+
+===== gail Training Iteration 6 =====:
+  adv_mean: null
+  discriminator_loss: 0.06912137943869218
+  entropy: 1.803840449681649
+  episode_reward: 25.217106760810385
+  frame_per_second: 409
+  gail_reward: 0.03179439146023912
+  grad_norm: 1.2310129246650598
+  iteration: 6
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.03459776383705246
+  ratio: 1.0016858945290248
+  success_rate: 0.0
+  total_episodes: 467
+  total_loss: -0.03459776383705246
+  total_steps: 140000
+  total_time: 342.17634987831116
+
+===== gail Training Iteration 7 =====:
+  adv_mean: null
+  discriminator_loss: 0.07916075617839129
+  entropy: 1.6147628056697356
+  episode_reward: 24.88032236661979
+  frame_per_second: 397
+  gail_reward: 0.013170049824298192
+  grad_norm: 1.6698447092985496
+  iteration: 7
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.014196881223231171
+  ratio: 0.9989636512903067
+  success_rate: 0.0
+  total_episodes: 621
+  total_loss: -0.014196881223231171
+  total_steps: 160000
+  total_time: 402.9403953552246
+
+===== gail Training Iteration 8 =====:
+  adv_mean: null
+  discriminator_loss: 0.09531506327673411
+  entropy: 1.426593809402906
+  episode_reward: 32.42215969116824
+  frame_per_second: 385
+  gail_reward: 0.019993142916176182
+  grad_norm: 1.8179935307074815
+  iteration: 8
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.021139986439345358
+  ratio: 0.9984817193868832
+  success_rate: 0.0
+  total_episodes: 796
+  total_loss: -0.021139986439345358
+  total_steps: 180000
+  total_time: 466.43705534935
+
+===== gail Training Iteration 9 =====:
+  adv_mean: null
+  discriminator_loss: 0.11193577398856482
+  entropy: 1.2922127818449949
+  episode_reward: 24.058679811009906
+  frame_per_second: 373
+  gail_reward: 0.014243750923719161
+  grad_norm: 2.2690210110101945
+  iteration: 9
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.014896117483910459
+  ratio: 0.9993025065996708
+  success_rate: 0.0
+  total_episodes: 1016
+  total_loss: -0.014896117483910459
+  total_steps: 200000
+  total_time: 534.8847377300262
+
+===== gail Training Iteration 10 =====:
+  adv_mean: null
+  discriminator_loss: 0.1477312786074785
+  entropy: 1.1507732429565527
+  episode_reward: 32.84534548182608
+  frame_per_second: 364
+  gail_reward: 0.012402771458698388
+  grad_norm: 1.0313461823341175
+  iteration: 10
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.0127410706717712
+  ratio: 0.9997090941056227
+  success_rate: 0.0
+  total_episodes: 1253
+  total_loss: -0.0127410706717712
+  total_steps: 220000
+  total_time: 603.7711145877838
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/checkpoint-iter10.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/progress.csv>.
+===== gail Training Iteration 11 =====:
+  adv_mean: null
+  discriminator_loss: 0.19035633997275278
+  entropy: 0.9642163353088574
+  episode_reward: 25.984088851974104
+  frame_per_second: 353
+  gail_reward: 0.0629206750732966
+  grad_norm: 4.059092607253637
+  iteration: 11
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.0642930599836967
+  ratio: 0.9990259340940377
+  success_rate: 0.0
+  total_episodes: 1534
+  total_loss: -0.0642930599836967
+  total_steps: 240000
+  total_time: 678.3079376220703
+
+===== gail Training Iteration 12 =====:
+  adv_mean: null
+  discriminator_loss: 0.2137183529921831
+  entropy: 0.8156801323095958
+  episode_reward: 32.82221884265142
+  frame_per_second: 345
+  gail_reward: 0.05525157878605219
+  grad_norm: 1.6129122686691773
+  iteration: 12
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.05556781048862598
+  ratio: 1.0003943120057766
+  success_rate: 0.0
+  total_episodes: 1805
+  total_loss: -0.05556781048862598
+  total_steps: 260000
+  total_time: 751.5130388736725
+
+===== gail Training Iteration 13 =====:
+  adv_mean: null
+  discriminator_loss: 0.2395267725850527
+  entropy: 0.7066589039869797
+  episode_reward: 39.26446278682615
+  frame_per_second: 340
+  gail_reward: 0.06439887423736927
+  grad_norm: 1.5590012455597901
+  iteration: 13
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.06472488400550225
+  ratio: 1.001758199166029
+  success_rate: 0.0
+  total_episodes: 2051
+  total_loss: -0.06472488400550225
+  total_steps: 280000
+  total_time: 822.4864888191223
+
+===== gail Training Iteration 14 =====:
+  adv_mean: null
+  discriminator_loss: 0.2239595559067451
+  entropy: 0.5865953803062439
+  episode_reward: 28.799651169291927
+  frame_per_second: 333
+  gail_reward: 0.07830904361147147
+  grad_norm: 2.393943541477888
+  iteration: 14
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.07901294198460304
+  ratio: 1.0016392043767832
+  success_rate: 0.0
+  total_episodes: 2343
+  total_loss: -0.07901294198460304
+  total_steps: 300000
+  total_time: 898.248904466629
+
+===== gail Training Iteration 15 =====:
+  adv_mean: null
+  discriminator_loss: 0.2501456492031232
+  entropy: 0.5029821292712138
+  episode_reward: 44.76673221116954
+  frame_per_second: 329
+  gail_reward: 0.06121504203153726
+  grad_norm: 0.7195887867456827
+  iteration: 15
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.0614433968726259
+  ratio: 0.9992713230542648
+  success_rate: 0.0
+  total_episodes: 2600
+  total_loss: -0.0614433968726259
+  total_steps: 320000
+  total_time: 971.3681364059448
+
+===== gail Training Iteration 16 =====:
+  adv_mean: null
+  discriminator_loss: 0.2847204798689255
+  entropy: 0.44527044945802446
+  episode_reward: 64.66363186357995
+  frame_per_second: 326
+  gail_reward: 0.0708079560731466
+  grad_norm: 1.0084189514319102
+  iteration: 16
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.07087157513373173
+  ratio: 0.9993997322443204
+  success_rate: 0.0
+  total_episodes: 2816
+  total_loss: -0.07087157513373173
+  total_steps: 340000
+  total_time: 1039.8139300346375
+
+===== gail Training Iteration 17 =====:
+  adv_mean: null
+  discriminator_loss: 0.2786858696395006
+  entropy: 0.36809154615188255
+  episode_reward: 64.95634019022314
+  frame_per_second: 324
+  gail_reward: 0.07419230877779998
+  grad_norm: 0.8085154147484364
+  iteration: 17
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.07450516059612616
+  ratio: 0.9999866793553035
+  success_rate: 0.0
+  total_episodes: 3036
+  total_loss: -0.07450516059612616
+  total_steps: 360000
+  total_time: 1108.4370703697205
+
+===== gail Training Iteration 18 =====:
+  adv_mean: null
+  discriminator_loss: 0.2821756380681808
+  entropy: 0.333173807653097
+  episode_reward: 57.70159294805089
+  frame_per_second: 322
+  gail_reward: 0.07566368839202019
+  grad_norm: 1.3765577924557222
+  iteration: 18
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.07562769015248005
+  ratio: 1.0005681356558433
+  success_rate: 0.0
+  total_episodes: 3269
+  total_loss: -0.07562769015248005
+  total_steps: 380000
+  total_time: 1178.63019323349
+
+===== gail Training Iteration 19 =====:
+  adv_mean: null
+  discriminator_loss: 0.24228976019299947
+  entropy: 0.30619370948809843
+  episode_reward: 40.5632807222646
+  frame_per_second: 319
+  gail_reward: 0.06590839946308197
+  grad_norm: 0.5047542503628976
+  iteration: 19
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.06597983543880474
+  ratio: 1.0000739434590706
+  success_rate: 0.0
+  total_episodes: 3546
+  total_loss: -0.06597983543880474
+  total_steps: 400000
+  total_time: 1251.622483253479
+
+===== gail Training Iteration 20 =====:
+  adv_mean: null
+  discriminator_loss: 0.26208874479127237
+  entropy: 0.280392542691567
+  episode_reward: 43.71046336259658
+  frame_per_second: 317
+  gail_reward: 0.08730207385543065
+  grad_norm: 1.3320412082549853
+  iteration: 20
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.087083249940322
+  ratio: 0.9993931969006856
+  success_rate: 0.0
+  total_episodes: 3809
+  total_loss: -0.087083249940322
+  total_steps: 420000
+  total_time: 1324.6205866336823
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/checkpoint-iter20.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/progress.csv>.
+===== gail Training Iteration 21 =====:
+  adv_mean: null
+  discriminator_loss: 0.1815266590947524
+  entropy: 0.21413392644280044
+  episode_reward: 25.87090605300092
+  frame_per_second: 313
+  gail_reward: 0.04969865918541566
+  grad_norm: 2.8416370507998345
+  iteration: 21
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.05022597467670074
+  ratio: 0.9991728950769473
+  success_rate: 0.0
+  total_episodes: 4138
+  total_loss: -0.05022597467670074
+  total_steps: 440000
+  total_time: 1402.3709948062897
+
+===== gail Training Iteration 22 =====:
+  adv_mean: null
+  discriminator_loss: 0.22953464011542307
+  entropy: 0.26092238504535115
+  episode_reward: 39.68353296170032
+  frame_per_second: 311
+  gail_reward: 0.06533608365421877
+  grad_norm: 1.2363922053422682
+  iteration: 22
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.06558181449102285
+  ratio: 0.9998651506809088
+  success_rate: 0.0
+  total_episodes: 4426
+  total_loss: -0.06558181449102285
+  total_steps: 460000
+  total_time: 1475.5641083717346
+
+===== gail Training Iteration 23 =====:
+  adv_mean: null
+  discriminator_loss: 0.23277999232403743
+  entropy: 0.3335023902929746
+  episode_reward: 41.882769602523524
+  frame_per_second: 310
+  gail_reward: 0.05319696961878202
+  grad_norm: 0.9865330986487559
+  iteration: 23
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.05393040388918076
+  ratio: 1.000713069545917
+  success_rate: 0.0
+  total_episodes: 4695
+  total_loss: -0.05393040388918076
+  total_steps: 480000
+  total_time: 1548.2090134620667
+
+===== gail Training Iteration 24 =====:
+  adv_mean: null
+  discriminator_loss: 0.20658847221101706
+  entropy: 0.3889734823352251
+  episode_reward: 32.86498731177219
+  frame_per_second: 308
+  gail_reward: 0.04956467371816054
+  grad_norm: 1.3457626737081088
+  iteration: 24
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.05036143558816268
+  ratio: 0.9989413977433473
+  success_rate: 0.0
+  total_episodes: 4989
+  total_loss: -0.05036143558816268
+  total_steps: 500000
+  total_time: 1623.3116743564606
+
+===== gail Training Iteration 25 =====:
+  adv_mean: null
+  discriminator_loss: 0.2141404010450993
+  entropy: 0.41940484906618414
+  episode_reward: 40.53227321937092
+  frame_per_second: 306
+  gail_reward: 0.0417580409691884
+  grad_norm: 1.4532343598512503
+  iteration: 25
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.04270182946601357
+  ratio: 1.0006897256160394
+  success_rate: 0.0
+  total_episodes: 5267
+  total_loss: -0.04270182946601357
+  total_steps: 520000
+  total_time: 1698.1515645980835
+
+===== gail Training Iteration 26 =====:
+  adv_mean: null
+  discriminator_loss: 0.2304731499690276
+  entropy: 0.4855508702305647
+  episode_reward: 45.50270234871437
+  frame_per_second: 305
+  gail_reward: 0.06372262705595065
+  grad_norm: 1.5920521691823617
+  iteration: 26
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.06515924366525351
+  ratio: 1.0012524536786935
+  success_rate: 0.0
+  total_episodes: 5517
+  total_loss: -0.06515924366525351
+  total_steps: 540000
+  total_time: 1769.4298598766327
+
+===== gail Training Iteration 27 =====:
+  adv_mean: null
+  discriminator_loss: 0.23393866600325475
+  entropy: 0.49954115935625176
+  episode_reward: 53.929209452459546
+  frame_per_second: 304
+  gail_reward: 0.05387406726009571
+  grad_norm: 3.33871704462247
+  iteration: 27
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.05495287453612456
+  ratio: 1.00062044828366
+  success_rate: 0.0
+  total_episodes: 5760
+  total_loss: -0.05495287453612456
+  total_steps: 560000
+  total_time: 1840.6564106941223
+
+===== gail Training Iteration 28 =====:
+  adv_mean: null
+  discriminator_loss: 0.24058358322542447
+  entropy: 0.5182085828139231
+  episode_reward: 58.457239843650044
+  frame_per_second: 303
+  gail_reward: 0.05028042672440792
+  grad_norm: 8.289903777684922
+  iteration: 28
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.05127656840456602
+  ratio: 1.0003039036805814
+  success_rate: 0.0
+  total_episodes: 5999
+  total_loss: -0.05127656840456602
+  total_steps: 580000
+  total_time: 1912.502759695053
+
+===== gail Training Iteration 29 =====:
+  adv_mean: null
+  discriminator_loss: 0.23644750050436228
+  entropy: 0.5376812031635871
+  episode_reward: 56.401143452137106
+  frame_per_second: 302
+  gail_reward: 0.07478344803437209
+  grad_norm: 1.5836566111980341
+  iteration: 29
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.0757205813167951
+  ratio: 1.000049166343151
+  success_rate: 0.0
+  total_episodes: 6240
+  total_loss: -0.0757205813167951
+  total_steps: 600000
+  total_time: 1984.1223468780518
+
+===== gail Training Iteration 30 =====:
+  adv_mean: null
+  discriminator_loss: 0.23457780672380557
+  entropy: 0.5948403672148019
+  episode_reward: 43.75548412500165
+  frame_per_second: 301
+  gail_reward: 0.09734577250022154
+  grad_norm: 3.9489579445276504
+  iteration: 30
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.09789083631565938
+  ratio: 1.0009446918200224
+  success_rate: 0.0
+  total_episodes: 6484
+  total_loss: -0.09789083631565938
+  total_steps: 620000
+  total_time: 2055.1775538921356
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/checkpoint-iter30.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/progress.csv>.
+===== gail Training Iteration 31 =====:
+  adv_mean: null
+  discriminator_loss: 0.23853469996307142
+  entropy: 0.6281603252276396
+  episode_reward: 54.26663699738527
+  frame_per_second: 300
+  gail_reward: 0.06113211639607564
+  grad_norm: 1.281090363783714
+  iteration: 31
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.06164258499749196
+  ratio: 0.9997166415819755
+  success_rate: 0.0
+  total_episodes: 6733
+  total_loss: -0.06164258499749196
+  total_steps: 640000
+  total_time: 2128.2105276584625
+
+===== gail Training Iteration 32 =====:
+  adv_mean: null
+  discriminator_loss: 0.23522582491620994
+  entropy: 0.6530274475232148
+  episode_reward: 46.61504329434353
+  frame_per_second: 300
+  gail_reward: 0.0755345725048429
+  grad_norm: 0.8106255541245143
+  iteration: 32
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.07582771356384724
+  ratio: 1.0006207818404222
+  success_rate: 0.0
+  total_episodes: 6985
+  total_loss: -0.07582771356384724
+  total_steps: 660000
+  total_time: 2199.591812610626
+
+===== gail Training Iteration 33 =====:
+  adv_mean: null
+  discriminator_loss: 0.2353753750713972
+  entropy: 0.6300566635070703
+  episode_reward: 53.44561646625877
+  frame_per_second: 299
+  gail_reward: 0.08680493440001438
+  grad_norm: 2.7722985692513293
+  iteration: 33
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.08705865230697851
+  ratio: 1.0008486434435233
+  success_rate: 0.0
+  total_episodes: 7226
+  total_loss: -0.08705865230697851
+  total_steps: 680000
+  total_time: 2269.630748271942
+
+===== gail Training Iteration 34 =====:
+  adv_mean: null
+  discriminator_loss: 0.2460866740689828
+  entropy: 0.6648984979360532
+  episode_reward: 64.53692224726754
+  frame_per_second: 299
+  gail_reward: 0.030225786958367397
+  grad_norm: 5.999395933518043
+  iteration: 34
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.030375645421922972
+  ratio: 1.0000678899196478
+  success_rate: 0.0
+  total_episodes: 7453
+  total_loss: -0.030375645421922972
+  total_steps: 700000
+  total_time: 2337.9678661823273
+
+===== gail Training Iteration 35 =====:
+  adv_mean: null
+  discriminator_loss: 0.2500910669756241
+  entropy: 0.6245403030361885
+  episode_reward: 64.40631118492334
+  frame_per_second: 298
+  gail_reward: 0.08931676797950878
+  grad_norm: 4.03611618738908
+  iteration: 35
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.08939189566060518
+  ratio: 1.0000240396230649
+  success_rate: 0.0
+  total_episodes: 7677
+  total_loss: -0.08939189566060518
+  total_steps: 720000
+  total_time: 2408.5656599998474
+
+===== gail Training Iteration 36 =====:
+  adv_mean: null
+  discriminator_loss: 0.24043720058905774
+  entropy: 0.6409979464916082
+  episode_reward: 62.85681559901989
+  frame_per_second: 298
+  gail_reward: 0.04998751382988233
+  grad_norm: 2.8610983362564673
+  iteration: 36
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.050261250190818924
+  ratio: 1.0001062238063567
+  success_rate: 0.0
+  total_episodes: 7894
+  total_loss: -0.050261250190818924
+  total_steps: 740000
+  total_time: 2476.8227019309998
+
+===== gail Training Iteration 37 =====:
+  adv_mean: null
+  discriminator_loss: 0.23599796554981134
+  entropy: 0.6264317774619812
+  episode_reward: 53.3782482533385
+  frame_per_second: 298
+  gail_reward: 0.07294336057339723
+  grad_norm: 3.3801628531553805
+  iteration: 37
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.07287034237136443
+  ratio: 0.999712197520794
+  success_rate: 0.0
+  total_episodes: 8127
+  total_loss: -0.07287034237136443
+  total_steps: 760000
+  total_time: 2544.349335670471
+
+===== gail Training Iteration 38 =====:
+  adv_mean: null
+  discriminator_loss: 0.2449471241961687
+  entropy: 0.6538218906292549
+  episode_reward: 60.57331321663239
+  frame_per_second: 298
+  gail_reward: 0.03999745820481808
+  grad_norm: 6.257245955711756
+  iteration: 38
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.040182409378198475
+  ratio: 0.9999907622734706
+  success_rate: 0.0
+  total_episodes: 8352
+  total_loss: -0.040182409378198475
+  total_steps: 780000
+  total_time: 2611.4189808368683
+
+===== gail Training Iteration 39 =====:
+  adv_mean: null
+  discriminator_loss: 0.2542387581215455
+  entropy: 0.6247801578197724
+  episode_reward: 75.31442532796441
+  frame_per_second: 298
+  gail_reward: 0.0605365468810002
+  grad_norm: 4.403060214947431
+  iteration: 39
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.060688964511530524
+  ratio: 0.9999507682445722
+  success_rate: 0.0
+  total_episodes: 8547
+  total_loss: -0.060688964511530524
+  total_steps: 800000
+  total_time: 2678.839905023575
+
+===== gail Training Iteration 40 =====:
+  adv_mean: null
+  discriminator_loss: 0.2533994936408141
+  entropy: 0.5661230253103452
+  episode_reward: 83.14451737768815
+  frame_per_second: 298
+  gail_reward: 0.06797658164436236
+  grad_norm: 1.26305879232211
+  iteration: 40
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.06818697896714394
+  ratio: 1.0000310598275601
+  success_rate: 0.0
+  total_episodes: 8732
+  total_loss: -0.06818697896714394
+  total_steps: 820000
+  total_time: 2744.656713962555
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/checkpoint-iter40.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/progress.csv>.
+===== gail Training Iteration 41 =====:
+  adv_mean: null
+  discriminator_loss: 0.2537088509171437
+  entropy: 0.5831369783633794
+  episode_reward: 92.26575750929553
+  frame_per_second: 298
+  gail_reward: 0.06970700346028957
+  grad_norm: 4.212115642351982
+  iteration: 41
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.06991167857956428
+  ratio: 1.0002494283975698
+  success_rate: 0.0
+  total_episodes: 8912
+  total_loss: -0.06991167857956428
+  total_steps: 840000
+  total_time: 2809.751844406128
+
+===== gail Training Iteration 42 =====:
+  adv_mean: null
+  discriminator_loss: 0.2613594302191184
+  entropy: 0.5506997207418466
+  episode_reward: 86.93210326706466
+  frame_per_second: 299
+  gail_reward: 0.09902774836772528
+  grad_norm: 9.851603523890178
+  iteration: 42
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.09935982897877693
+  ratio: 1.0014538981975654
+  success_rate: 0.0
+  total_episodes: 9093
+  total_loss: -0.09935982897877693
+  total_steps: 860000
+  total_time: 2875.1105353832245
+
+===== gail Training Iteration 43 =====:
+  adv_mean: null
+  discriminator_loss: 0.2766952906663601
+  entropy: 0.5625132874036447
+  episode_reward: 85.9593622338335
+  frame_per_second: 299
+  gail_reward: 0.03542788674672827
+  grad_norm: 2.217919037892268
+  iteration: 43
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.03573537104022809
+  ratio: 0.9989648462870182
+  success_rate: 0.0
+  total_episodes: 9277
+  total_loss: -0.03573537104022809
+  total_steps: 880000
+  total_time: 2940.820794582367
+
+===== gail Training Iteration 44 =====:
+  adv_mean: null
+  discriminator_loss: 0.2705337857015622
+  entropy: 0.5739742259948681
+  episode_reward: 88.80947255762554
+  frame_per_second: 299
+  gail_reward: 0.12511877697438767
+  grad_norm: 5.108405294785133
+  iteration: 44
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.1252677079481192
+  ratio: 1.0002679868386342
+  success_rate: 0.0
+  total_episodes: 9456
+  total_loss: -0.1252677079481192
+  total_steps: 900000
+  total_time: 3006.358944416046
+
+===== gail Training Iteration 45 =====:
+  adv_mean: null
+  discriminator_loss: 0.27491148758010986
+  entropy: 0.5822207095913398
+  episode_reward: 100.86510757404508
+  frame_per_second: 299
+  gail_reward: 0.08413460021599745
+  grad_norm: 1.4035542835027743
+  iteration: 45
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.08432477451860905
+  ratio: 0.999739226546043
+  success_rate: 0.0
+  total_episodes: 9625
+  total_loss: -0.08432477451860905
+  total_steps: 920000
+  total_time: 3068.7383880615234
+
+===== gail Training Iteration 46 =====:
+  adv_mean: null
+  discriminator_loss: 0.27675995331926223
+  entropy: 0.5692297860215871
+  episode_reward: 110.45544711382354
+  frame_per_second: 300
+  gail_reward: 0.09772948802281649
+  grad_norm: 3.37552006030694
+  iteration: 46
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.0976422791202099
+  ratio: 1.000674917911872
+  success_rate: 0.0
+  total_episodes: 9786
+  total_loss: -0.0976422791202099
+  total_steps: 940000
+  total_time: 3130.848461866379
+
+===== gail Training Iteration 47 =====:
+  adv_mean: null
+  discriminator_loss: 0.2917806959878176
+  entropy: 0.6082757423321407
+  episode_reward: 116.94230079797796
+  frame_per_second: 300
+  gail_reward: 0.07659823039594368
+  grad_norm: 3.417978478700687
+  iteration: 47
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.07676231409303653
+  ratio: 1.0003180120999997
+  success_rate: 0.0
+  total_episodes: 9936
+  total_loss: -0.07676231409303653
+  total_steps: 960000
+  total_time: 3192.384676218033
+
+===== gail Training Iteration 48 =====:
+  adv_mean: null
+  discriminator_loss: 0.27914884292926545
+  entropy: 0.5631672664330556
+  episode_reward: 123.50659066423356
+  frame_per_second: 301
+  gail_reward: 0.10236954870514381
+  grad_norm: 4.271996306150387
+  iteration: 48
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.10207395031093022
+  ratio: 0.9996556768814723
+  success_rate: 0.0
+  total_episodes: 10089
+  total_loss: -0.10207395031093022
+  total_steps: 980000
+  total_time: 3251.9707005023956
+
+===== gail Training Iteration 49 =====:
+  adv_mean: null
+  discriminator_loss: 0.28705161708669785
+  entropy: 0.45897688613488125
+  episode_reward: 141.42013211693572
+  frame_per_second: 302
+  gail_reward: 0.0697635065859709
+  grad_norm: 1.4072494404438214
+  iteration: 49
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.07035457030034219
+  ratio: 1.0012354638331975
+  success_rate: 0.0
+  total_episodes: 10229
+  total_loss: -0.07035457030034219
+  total_steps: 1000000
+  total_time: 3309.663752555847
+
+===== gail Training Iteration 50 =====:
+  adv_mean: null
+  discriminator_loss: 0.28163413050083014
+  entropy: 0.43338959320233417
+  episode_reward: 143.231749880175
+  frame_per_second: 302
+  gail_reward: 0.0643192933490261
+  grad_norm: 1.2368316158270225
+  iteration: 50
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail
+  policy_loss: -0.06438421717821023
+  ratio: 1.000186009131945
+  success_rate: 0.0
+  total_episodes: 10367
+  total_loss: -0.06438421717821023
+  total_steps: 1020000
+  total_time: 3368.324009656906
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/checkpoint-iter50.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail/progress.csv>.

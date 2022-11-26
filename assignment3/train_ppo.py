@@ -132,9 +132,9 @@ if __name__ == '__main__':
     # Setup trainer
     trainer = PPOTrainer(envs, config)
 
-    if args.restore:
+    # if args.restore:
         # Try to reload models
-        trainer.load_w(log_dir, "final")
+        # trainer.load_w(log_dir, "final")
 
     # Setup some stats helpers
     episode_rewards = np.zeros([num_envs, 1], dtype=float)

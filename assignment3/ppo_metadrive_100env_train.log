@@ -1,0 +1,905 @@
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+/voyager/projects/jacobyhsi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+
+
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered MetaDrive environments: Successfully registered MetaDrive environments:   ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].Successfully registered MetaDrive environments: 
+ ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Start training!
+===== ppo Training Iteration 0 =====:
+  adv_mean: 0.18117655813694
+  entropy: 2.7947793373694787
+  episode_reward: 6.905704103723123
+  frame_per_second: 515
+  grad_norm: 1.0063000313746624
+  iteration: 0
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0067529370787386325
+  ratio: 1.0003917582524129
+  success_rate: 0.0
+  total_episodes: 18
+  total_loss: 0.04573383845884401
+  total_steps: 20000
+  total_time: 38.832143783569336
+  value_loss: 0.05248677549250901
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/checkpoint-iter0.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 1 =====:
+  adv_mean: 0.2220253348350525
+  entropy: 2.766708629253583
+  episode_reward: 9.728724174205125
+  frame_per_second: 498
+  grad_norm: 1.2047813709538717
+  iteration: 1
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.008381102389942567
+  ratio: 1.0006107133932602
+  success_rate: 0.0
+  total_episodes: 47
+  total_loss: 0.06497476649148247
+  total_steps: 40000
+  total_time: 80.28054189682007
+  value_loss: 0.07335586891485713
+
+===== ppo Training Iteration 2 =====:
+  adv_mean: 0.3404502272605896
+  entropy: 2.6659022548259834
+  episode_reward: 12.967422731397553
+  frame_per_second: 490
+  grad_norm: 1.4713652981206393
+  iteration: 2
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.010991938607110523
+  ratio: 0.9998259392304298
+  success_rate: 0.0
+  total_episodes: 73
+  total_loss: 0.07968285462001147
+  total_steps: 60000
+  total_time: 122.4039056301117
+  value_loss: 0.09067479309458763
+
+===== ppo Training Iteration 3 =====:
+  adv_mean: 0.3759348392486572
+  entropy: 2.598085886087173
+  episode_reward: 15.19356306375794
+  frame_per_second: 481
+  grad_norm: 1.7444405063604698
+  iteration: 3
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.009391976121622018
+  ratio: 0.9981233161993516
+  success_rate: 0.0
+  total_episodes: 107
+  total_loss: 0.24187145945854868
+  total_steps: 80000
+  total_time: 166.200617313385
+  value_loss: 0.2512634357246451
+
+===== ppo Training Iteration 4 =====:
+  adv_mean: 0.5482671856880188
+  entropy: 2.4673685397857277
+  episode_reward: 17.450284024297893
+  frame_per_second: 463
+  grad_norm: 2.1683679092006805
+  iteration: 4
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0064141712226093005
+  ratio: 1.0000626768057164
+  success_rate: 0.0
+  total_episodes: 158
+  total_loss: 0.527061487452533
+  total_steps: 100000
+  total_time: 215.69978070259094
+  value_loss: 0.5334756562725091
+
+===== ppo Training Iteration 5 =====:
+  adv_mean: 0.7193285226821899
+  entropy: 2.3899474412967
+  episode_reward: 20.01938617709359
+  frame_per_second: 451
+  grad_norm: 2.6828894867346835
+  iteration: 5
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.007015346119013161
+  ratio: 1.0004042295309215
+  success_rate: 0.0
+  total_episodes: 219
+  total_loss: 0.7706806934032685
+  total_steps: 120000
+  total_time: 265.9432065486908
+  value_loss: 0.7776960396995911
+
+===== ppo Training Iteration 6 =====:
+  adv_mean: 1.09602952003479
+  entropy: 2.288795917156415
+  episode_reward: 26.093435174043066
+  frame_per_second: 439
+  grad_norm: 3.5245098639757204
+  iteration: 6
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.00777209860821947
+  ratio: 1.0000226028454609
+  success_rate: 0.0
+  total_episodes: 295
+  total_loss: 1.4575679663664256
+  total_steps: 140000
+  total_time: 318.84780502319336
+  value_loss: 1.465340066032532
+
+===== ppo Training Iteration 7 =====:
+  adv_mean: 1.552545189857483
+  entropy: 2.2279631244830598
+  episode_reward: 33.49546098389475
+  frame_per_second: 424
+  grad_norm: 4.752577753708913
+  iteration: 7
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0067935218539041204
+  ratio: 1.0010605295499166
+  success_rate: 0.0
+  total_episodes: 379
+  total_loss: 2.320640153762622
+  total_steps: 160000
+  total_time: 377.03967785835266
+  value_loss: 2.32743367033127
+
+===== ppo Training Iteration 8 =====:
+  adv_mean: 1.7578421831130981
+  entropy: 2.1487370973978286
+  episode_reward: 38.97783568144914
+  frame_per_second: 416
+  grad_norm: 6.7651557149031225
+  iteration: 8
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.007788250211459131
+  ratio: 0.9994483842299535
+  success_rate: 0.0
+  total_episodes: 462
+  total_loss: 3.2121214748957216
+  total_steps: 180000
+  total_time: 432.36409544944763
+  value_loss: 3.219909726962065
+
+===== ppo Training Iteration 9 =====:
+  adv_mean: 2.7599706649780273
+  entropy: 2.0102619418731105
+  episode_reward: 50.783174068161955
+  frame_per_second: 408
+  grad_norm: 10.875635236501694
+  iteration: 9
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0077203164802482115
+  ratio: 0.9988940907594485
+  success_rate: 0.0
+  total_episodes: 556
+  total_loss: 5.614493451057336
+  total_steps: 200000
+  total_time: 489.8002784252167
+  value_loss: 5.62221376987604
+
+===== ppo Training Iteration 10 =====:
+  adv_mean: 3.34083890914917
+  entropy: 1.9350080569585164
+  episode_reward: 74.36145171083643
+  frame_per_second: 403
+  grad_norm: 16.255351130778973
+  iteration: 10
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.004501821233246189
+  ratio: 1.0005424339037674
+  success_rate: 0.0
+  total_episodes: 654
+  total_loss: 8.497004896555191
+  total_steps: 220000
+  total_time: 545.0149450302124
+  value_loss: 8.50150673144903
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/checkpoint-iter10.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 11 =====:
+  adv_mean: 4.608528137207031
+  entropy: 1.8823704364972236
+  episode_reward: 104.98011102997134
+  frame_per_second: 401
+  grad_norm: 26.902579999581363
+  iteration: 11
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0032747343140773666
+  ratio: 0.9994355560113222
+  success_rate: 0.01
+  total_episodes: 733
+  total_loss: 11.527922076445359
+  total_steps: 240000
+  total_time: 597.6999480724335
+  value_loss: 11.53119681126032
+
+===== ppo Training Iteration 12 =====:
+  adv_mean: 4.323089122772217
+  entropy: 1.8012455383936563
+  episode_reward: 111.50828935641161
+  frame_per_second: 399
+  grad_norm: 42.519307169547446
+  iteration: 12
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0030317799397147236
+  ratio: 1.0000653782716165
+  success_rate: 0.02
+  total_episodes: 823
+  total_loss: 17.367584122144258
+  total_steps: 260000
+  total_time: 650.0338883399963
+  value_loss: 17.370615871136007
+
+===== ppo Training Iteration 13 =====:
+  adv_mean: 4.144827842712402
+  entropy: 1.7129066510078235
+  episode_reward: 105.64635661729766
+  frame_per_second: 396
+  grad_norm: 55.72364399494269
+  iteration: 13
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.004460955442836843
+  ratio: 0.9997535593234576
+  success_rate: 0.01
+  total_episodes: 930
+  total_loss: 23.928820043955096
+  total_steps: 280000
+  total_time: 706.9502742290497
+  value_loss: 23.933281053640904
+
+===== ppo Training Iteration 14 =====:
+  adv_mean: 2.5857415199279785
+  entropy: 1.6474547346433004
+  episode_reward: 89.13769429104383
+  frame_per_second: 389
+  grad_norm: 84.60193146314377
+  iteration: 14
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.006753873314039829
+  ratio: 0.9990121848308123
+  success_rate: 0.0
+  total_episodes: 1063
+  total_loss: 35.35249644059401
+  total_steps: 300000
+  total_time: 769.695059299469
+  value_loss: 35.35925023739154
+
+===== ppo Training Iteration 15 =====:
+  adv_mean: 3.006537914276123
+  entropy: 1.5658980002770058
+  episode_reward: 107.65893216408759
+  frame_per_second: 386
+  grad_norm: 108.32777740771954
+  iteration: 15
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.003415116863564039
+  ratio: 0.9999616805559549
+  success_rate: 0.0
+  total_episodes: 1182
+  total_loss: 37.91848894265982
+  total_steps: 320000
+  total_time: 827.8445899486542
+  value_loss: 37.92190405527751
+
+===== ppo Training Iteration 16 =====:
+  adv_mean: 3.0086889266967773
+  entropy: 1.4622743076238878
+  episode_reward: 114.29134239533613
+  frame_per_second: 384
+  grad_norm: 127.9371887304844
+  iteration: 16
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.002390680623312409
+  ratio: 0.9993342255934691
+  success_rate: 0.01
+  total_episodes: 1305
+  total_loss: 40.29231607241508
+  total_steps: 340000
+  total_time: 884.0091514587402
+  value_loss: 40.29470687034802
+
+===== ppo Training Iteration 17 =====:
+  adv_mean: 2.4595370292663574
+  entropy: 1.4540510269311757
+  episode_reward: 120.89461434926434
+  frame_per_second: 382
+  grad_norm: 150.045555021824
+  iteration: 17
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.003769348738476252
+  ratio: 0.9990336524370389
+  success_rate: 0.0
+  total_episodes: 1426
+  total_loss: 44.15869122529641
+  total_steps: 360000
+  total_time: 940.7987349033356
+  value_loss: 44.1624607135088
+
+===== ppo Training Iteration 18 =====:
+  adv_mean: 2.326894760131836
+  entropy: 1.4061061198894793
+  episode_reward: 127.17763621301822
+  frame_per_second: 381
+  grad_norm: 166.1039640964606
+  iteration: 18
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0007840226380488811
+  ratio: 0.9998740867162362
+  success_rate: 0.01
+  total_episodes: 1547
+  total_loss: 38.62232391895392
+  total_steps: 380000
+  total_time: 996.9985678195953
+  value_loss: 38.623107836796684
+
+===== ppo Training Iteration 19 =====:
+  adv_mean: 1.8014580011367798
+  entropy: 1.3487425475548476
+  episode_reward: 129.91436897710767
+  frame_per_second: 379
+  grad_norm: 231.05178108215333
+  iteration: 19
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0002828363042611342
+  ratio: 0.9997208372140542
+  success_rate: 0.0
+  total_episodes: 1671
+  total_loss: 45.93498222644512
+  total_steps: 400000
+  total_time: 1052.990199804306
+  value_loss: 45.93469936419756
+
+===== ppo Training Iteration 20 =====:
+  adv_mean: 0.43656298518180847
+  entropy: 1.256907268670889
+  episode_reward: 120.18501313524357
+  frame_per_second: 378
+  grad_norm: 269.6019229106414
+  iteration: 20
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0029998404147007908
+  ratio: 0.9993514407139558
+  success_rate: 0.0
+  total_episodes: 1804
+  total_loss: 50.91796159499731
+  total_steps: 420000
+  total_time: 1108.323519229889
+  value_loss: 50.92096152183337
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/checkpoint-iter20.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 21 =====:
+  adv_mean: 0.6980387568473816
+  entropy: 1.1911476101630774
+  episode_reward: 121.22331643197522
+  frame_per_second: 377
+  grad_norm: 302.29474441332695
+  iteration: 21
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0014736919675786527
+  ratio: 0.9997106777551846
+  success_rate: 0.01
+  total_episodes: 1943
+  total_loss: 48.175722828889505
+  total_steps: 440000
+  total_time: 1165.3284130096436
+  value_loss: 48.17424909640581
+
+===== ppo Training Iteration 22 =====:
+  adv_mean: 0.9027736186981201
+  entropy: 1.1518135249614716
+  episode_reward: 129.45264588574594
+  frame_per_second: 376
+  grad_norm: 324.21004384358724
+  iteration: 22
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0014756844683478658
+  ratio: 0.9998122954979921
+  success_rate: 0.01
+  total_episodes: 2080
+  total_loss: 47.95920456861838
+  total_steps: 460000
+  total_time: 1221.4694452285767
+  value_loss: 47.96068025002113
+
+===== ppo Training Iteration 23 =====:
+  adv_mean: 0.858736515045166
+  entropy: 1.0459257539266196
+  episode_reward: 118.9302193399865
+  frame_per_second: 375
+  grad_norm: 368.1834510118533
+  iteration: 23
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0030428559967101768
+  ratio: 0.999409957573964
+  success_rate: 0.0
+  total_episodes: 2222
+  total_loss: 47.42007848299467
+  total_steps: 480000
+  total_time: 1277.9686150550842
+  value_loss: 47.42312133495624
+
+===== ppo Training Iteration 24 =====:
+  adv_mean: 0.22834667563438416
+  entropy: 1.0572413897667177
+  episode_reward: 115.22134123441562
+  frame_per_second: 374
+  grad_norm: 357.3195268288637
+  iteration: 24
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.00012186223354477149
+  ratio: 0.9996063692447467
+  success_rate: 0.0
+  total_episodes: 2367
+  total_loss: 42.26216538258088
+  total_steps: 500000
+  total_time: 1334.5784375667572
+  value_loss: 42.26204357147217
+
+===== ppo Training Iteration 25 =====:
+  adv_mean: 0.7370335459709167
+  entropy: 1.0451543156153116
+  episode_reward: 126.36255034392029
+  frame_per_second: 374
+  grad_norm: 426.7944858061962
+  iteration: 25
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0007532523562892889
+  ratio: 1.000180935783264
+  success_rate: 0.0
+  total_episodes: 2509
+  total_loss: 46.133265209198
+  total_steps: 520000
+  total_time: 1390.3371336460114
+  value_loss: 46.13251188962887
+
+===== ppo Training Iteration 26 =====:
+  adv_mean: 0.6640433073043823
+  entropy: 0.9826739988265893
+  episode_reward: 129.8787662448711
+  frame_per_second: 373
+  grad_norm: 443.7675190656613
+  iteration: 26
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.00047208798380616386
+  ratio: 1.000284580236826
+  success_rate: 0.0
+  total_episodes: 2648
+  total_loss: 40.23456658094357
+  total_steps: 540000
+  total_time: 1445.0523216724396
+  value_loss: 40.23409439478165
+
+===== ppo Training Iteration 27 =====:
+  adv_mean: 0.238352432847023
+  entropy: 0.984547827564753
+  episode_reward: 119.12261530893291
+  frame_per_second: 372
+  grad_norm: 485.0579205830892
+  iteration: 27
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0008212750795512245
+  ratio: 0.999299486554586
+  success_rate: 0.02
+  total_episodes: 2793
+  total_loss: 56.30644072997264
+  total_steps: 560000
+  total_time: 1502.395554304123
+  value_loss: 56.307261868012255
+
+===== ppo Training Iteration 28 =====:
+  adv_mean: -2.233577013015747
+  entropy: 0.9482206526475075
+  episode_reward: 100.63011400819497
+  frame_per_second: 371
+  grad_norm: 614.5490868984125
+  iteration: 28
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0015809448919473933
+  ratio: 0.9996643244456023
+  success_rate: 0.0
+  total_episodes: 2956
+  total_loss: 62.54373024182442
+  total_steps: 580000
+  total_time: 1560.3111021518707
+  value_loss: 62.54214935302734
+
+===== ppo Training Iteration 29 =====:
+  adv_mean: -0.5285234451293945
+  entropy: 0.8897465259600909
+  episode_reward: 112.04229624137119
+  frame_per_second: 371
+  grad_norm: 573.8041216336763
+  iteration: 29
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0019659414988918563
+  ratio: 1.0002037798747039
+  success_rate: 0.0
+  total_episodes: 3114
+  total_loss: 49.147747609554195
+  total_steps: 600000
+  total_time: 1616.9712162017822
+  value_loss: 49.14578177378728
+
+===== ppo Training Iteration 30 =====:
+  adv_mean: -0.5984953045845032
+  entropy: 0.887027172323985
+  episode_reward: 103.8297230457788
+  frame_per_second: 370
+  grad_norm: 594.4212143531213
+  iteration: 30
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.001783810791750558
+  ratio: 1.0002698559027452
+  success_rate: 0.01
+  total_episodes: 3275
+  total_loss: 48.46512508636866
+  total_steps: 620000
+  total_time: 1672.8128430843353
+  value_loss: 48.46334122388791
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/checkpoint-iter30.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 31 =====:
+  adv_mean: -0.6444234251976013
+  entropy: 0.8109068164458642
+  episode_reward: 109.85679802806656
+  frame_per_second: 369
+  grad_norm: 749.9235854906914
+  iteration: 31
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.00338673341828279
+  ratio: 0.9997497940674807
+  success_rate: 0.0
+  total_episodes: 3441
+  total_loss: 56.50205727601663
+  total_steps: 640000
+  total_time: 1730.0320229530334
+  value_loss: 56.498670465518266
+
+===== ppo Training Iteration 32 =====:
+  adv_mean: 1.412697672843933
+  entropy: 0.9014821894657917
+  episode_reward: 133.93013307883294
+  frame_per_second: 369
+  grad_norm: 576.4971868074857
+  iteration: 32
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0010007381164588226
+  ratio: 1.0008888793297304
+  success_rate: 0.01
+  total_episodes: 3584
+  total_loss: 43.818512011797
+  total_steps: 660000
+  total_time: 1784.1287348270416
+  value_loss: 43.81751144849337
+
+===== ppo Training Iteration 33 =====:
+  adv_mean: 1.4914486408233643
+  entropy: 0.8863135285102404
+  episode_reward: 126.22679363449106
+  frame_per_second: 369
+  grad_norm: 669.9298741267278
+  iteration: 33
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0008515356216006554
+  ratio: 1.0001295531407381
+  success_rate: 0.0
+  total_episodes: 3735
+  total_loss: 53.63384524125319
+  total_steps: 680000
+  total_time: 1840.2023062705994
+  value_loss: 53.63469650072929
+
+===== ppo Training Iteration 34 =====:
+  adv_mean: 1.005772590637207
+  entropy: 0.8262525223004512
+  episode_reward: 128.84593546131856
+  frame_per_second: 369
+  grad_norm: 622.0796685243264
+  iteration: 34
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.00016771500828699807
+  ratio: 0.9992706664861777
+  success_rate: 0.01
+  total_episodes: 3882
+  total_loss: 45.761544653085565
+  total_steps: 700000
+  total_time: 1895.5080740451813
+  value_loss: 45.76137684064034
+
+===== ppo Training Iteration 35 =====:
+  adv_mean: 0.5748880505561829
+  entropy: 0.8426679456845309
+  episode_reward: 128.2982734445941
+  frame_per_second: 369
+  grad_norm: 748.6171741779034
+  iteration: 35
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.001047874462360946
+  ratio: 0.9992975540650196
+  success_rate: 0.0
+  total_episodes: 4034
+  total_loss: 55.69819084558731
+  total_steps: 720000
+  total_time: 1950.7164018154144
+  value_loss: 55.6971430851863
+
+===== ppo Training Iteration 36 =====:
+  adv_mean: 1.0626859664916992
+  entropy: 0.8577745090692471
+  episode_reward: 131.81416252963314
+  frame_per_second: 369
+  grad_norm: 687.2717561966334
+  iteration: 36
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.00011515886379549136
+  ratio: 0.9998937889551505
+  success_rate: 0.02
+  total_episodes: 4182
+  total_loss: 48.65274728628305
+  total_steps: 740000
+  total_time: 2005.1892476081848
+  value_loss: 48.652862629523646
+
+===== ppo Training Iteration 37 =====:
+  adv_mean: 0.49915584921836853
+  entropy: 0.9422302000797712
+  episode_reward: 123.595495897723
+  frame_per_second: 368
+  grad_norm: 653.95280663906
+  iteration: 37
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.00043394158128648994
+  ratio: 0.9998272160689036
+  success_rate: 0.01
+  total_episodes: 4334
+  total_loss: 50.48418670311952
+  total_steps: 760000
+  total_time: 2060.1306116580963
+  value_loss: 50.48375281554002
+
+===== ppo Training Iteration 38 =====:
+  adv_mean: 1.8714609146118164
+  entropy: 0.8880970821166649
+  episode_reward: 145.45621763829587
+  frame_per_second: 369
+  grad_norm: 719.4895863068409
+  iteration: 38
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0007589470559301284
+  ratio: 1.0006213402136779
+  success_rate: 0.03
+  total_episodes: 4469
+  total_loss: 59.4027248724913
+  total_steps: 780000
+  total_time: 2113.612987756729
+  value_loss: 59.40348386030931
+
+===== ppo Training Iteration 39 =====:
+  adv_mean: 0.9138218760490417
+  entropy: 0.8806853000170145
+  episode_reward: 143.54098718221658
+  frame_per_second: 369
+  grad_norm: 736.9371938656537
+  iteration: 39
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.002989252398196512
+  ratio: 0.9993142318267089
+  success_rate: 0.0
+  total_episodes: 4611
+  total_loss: 54.03893670791235
+  total_steps: 800000
+  total_time: 2167.1422250270844
+  value_loss: 54.03594751847096
+
+===== ppo Training Iteration 40 =====:
+  adv_mean: 0.4929695129394531
+  entropy: 0.857157372817015
+  episode_reward: 134.15598739853482
+  frame_per_second: 369
+  grad_norm: 804.3013000292656
+  iteration: 40
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0013341187194992716
+  ratio: 0.9993308112407342
+  success_rate: 0.0
+  total_episodes: 4756
+  total_loss: 58.66461756779597
+  total_steps: 820000
+  total_time: 2220.649263381958
+  value_loss: 58.665951601664226
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/checkpoint-iter40.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 41 =====:
+  adv_mean: 0.5336593389511108
+  entropy: 0.8268569141626358
+  episode_reward: 137.7469295310059
+  frame_per_second: 369
+  grad_norm: 978.3702330760467
+  iteration: 41
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -0.0007340276855617189
+  ratio: 0.999051872201455
+  success_rate: 0.03
+  total_episodes: 4896
+  total_loss: 63.48316293374086
+  total_steps: 840000
+  total_time: 2274.8113565444946
+  value_loss: 63.48389706244836
+
+===== ppo Training Iteration 42 =====:
+  adv_mean: 0.6379650235176086
+  entropy: 0.8307769608039123
+  episode_reward: 150.76779210276737
+  frame_per_second: 369
+  grad_norm: 950.6409245808919
+  iteration: 42
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: -8.670481351705698e-05
+  ratio: 1.0004044049061263
+  success_rate: 0.05
+  total_episodes: 5035
+  total_loss: 65.05285265506842
+  total_steps: 860000
+  total_time: 2330.068078517914
+  value_loss: 65.05293940519675
+
+===== ppo Training Iteration 43 =====:
+  adv_mean: -0.5708552598953247
+  entropy: 0.8514357540087822
+  episode_reward: 130.10533517410607
+  frame_per_second: 369
+  grad_norm: 975.8295401548728
+  iteration: 43
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.000689803955789942
+  ratio: 1.0001617051852054
+  success_rate: 0.0
+  total_episodes: 5179
+  total_loss: 65.02907386192909
+  total_steps: 880000
+  total_time: 2384.1780195236206
+  value_loss: 65.02838425758557
+
+===== ppo Training Iteration 44 =====:
+  adv_mean: 0.7648311257362366
+  entropy: 0.7931158212515024
+  episode_reward: 143.73211366017665
+  frame_per_second: 369
+  grad_norm: 1039.3523804102188
+  iteration: 44
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0015092983829956023
+  ratio: 0.9995813769407761
+  success_rate: 0.03
+  total_episodes: 5322
+  total_loss: 65.77630660717304
+  total_steps: 900000
+  total_time: 2438.5156815052032
+  value_loss: 65.77479750804412
+
+===== ppo Training Iteration 45 =====:
+  adv_mean: 0.3410891890525818
+  entropy: 0.7459665450530174
+  episode_reward: 134.1612190679953
+  frame_per_second: 368
+  grad_norm: 999.7627313467173
+  iteration: 45
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0009388970837999994
+  ratio: 0.9993240591043081
+  success_rate: 0.02
+  total_episodes: 5467
+  total_loss: 68.74954510224171
+  total_steps: 920000
+  total_time: 2493.7671122550964
+  value_loss: 68.7486061291817
+
+===== ppo Training Iteration 46 =====:
+  adv_mean: 1.51797354221344
+  entropy: 0.712318595021199
+  episode_reward: 143.8833871188908
+  frame_per_second: 368
+  grad_norm: 1008.0041102482722
+  iteration: 46
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.002575325953344313
+  ratio: 1.000530750476397
+  success_rate: 0.04
+  total_episodes: 5615
+  total_loss: 64.30058007851625
+  total_steps: 940000
+  total_time: 2549.338659763336
+  value_loss: 64.29800490843944
+
+===== ppo Training Iteration 47 =====:
+  adv_mean: 1.3492079973220825
+  entropy: 0.6959451547035804
+  episode_reward: 143.5063763047585
+  frame_per_second: 368
+  grad_norm: 987.1429352589142
+  iteration: 47
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0031448573363610567
+  ratio: 1.0000754941732455
+  success_rate: 0.02
+  total_episodes: 5758
+  total_loss: 61.379296092497995
+  total_steps: 960000
+  total_time: 2603.445019721985
+  value_loss: 61.37615107022799
+
+===== ppo Training Iteration 48 =====:
+  adv_mean: 0.3625822067260742
+  entropy: 0.7042175902005954
+  episode_reward: 139.6101293740385
+  frame_per_second: 368
+  grad_norm: 1190.522324625651
+  iteration: 48
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.008257259232684588
+  ratio: 1.000074469202604
+  success_rate: 0.03
+  total_episodes: 5902
+  total_loss: 67.79527568817139
+  total_steps: 980000
+  total_time: 2658.5455379486084
+  value_loss: 67.78701846782978
+
+===== ppo Training Iteration 49 =====:
+  adv_mean: 0.9563136696815491
+  entropy: 0.6704840895457146
+  episode_reward: 149.92432467992077
+  frame_per_second: 368
+  grad_norm: 946.3671232174604
+  iteration: 49
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0013212244127853176
+  ratio: 0.9995156885721744
+  success_rate: 0.01
+  total_episodes: 6044
+  total_loss: 58.595935410719655
+  total_steps: 1000000
+  total_time: 2712.6704893112183
+  value_loss: 58.59461393600855
+
+===== ppo Training Iteration 50 =====:
+  adv_mean: 0.1979939341545105
+  entropy: 0.6550706007541754
+  episode_reward: 138.05900472517794
+  frame_per_second: 368
+  grad_norm: 1028.8514125334912
+  iteration: 50
+  log_dir: /voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo
+  policy_loss: 0.0005942679493902967
+  ratio: 1.0000011486884874
+  success_rate: 0.03
+  total_episodes: 6189
+  total_loss: 63.70988713777982
+  total_steps: 1020000
+  total_time: 2767.8035564422607
+  value_loss: 63.709292842180304
+
+Trainer is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/checkpoint-iter50.pkl>. Progress is saved at </voyager/projects/jacobyhsi/assignment-2022fall/assignment3/MetaDrive-Tut-100Env-v0/ppo/progress.csv>.
